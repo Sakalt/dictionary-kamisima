@@ -1,0 +1,19 @@
+[
+  {
+    "word": "人",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人。人間。永球人。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ha1",
+    "num": "1"
+  },
+]
